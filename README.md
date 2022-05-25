@@ -1,2 +1,2 @@
 # adminpanel
-Basic admin panel project to display Flexbox and Grid concepts in CSS
+Basic admin panel project to display Grid concepts in CSS
